@@ -1,0 +1,21 @@
+.container-fluid {
+    color: #fff;
+    margin-top: 200px;
+    border: #fff 1px solid;
+}
+
+a:link {
+    color: rgb(10, 7, 7)
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
+}
