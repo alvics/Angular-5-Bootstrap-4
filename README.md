@@ -1,4 +1,6 @@
-# Ngrouting
+# Angular 5 Bootstrap 4
+## Starter Template with Routing configured
+### Navigation + 5 pages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
